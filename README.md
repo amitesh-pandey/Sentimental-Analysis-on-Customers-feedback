@@ -19,6 +19,8 @@ Word2Vec is a two-layer neural net that processes text by “vectorizing” word
 
 It was found that the word2vec techniques provides a better accuracy rate of 84%, when compared with the TF-IDF technique which seems to have approximately 80 to 82%. 
 
+Below is the tabular difference between TF-IDF & Word2Vec 
+
    ![image](https://user-images.githubusercontent.com/63364350/116407813-c707ec00-a84f-11eb-9185-513edc92f69f.png)
 
 
