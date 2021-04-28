@@ -8,7 +8,9 @@ The Term Frequency is termed as The number of times a word appears in a document
 The term Inverse Document Frequency is termed as the logarithm of the number of the documents in the corpus divided by the number of documents where the specific term appears.
 ![image](https://user-images.githubusercontent.com/63364350/116404594-6aef9880-a84c-11eb-82ee-70cbbb98fcf4.png)
 
-Hence TF-IDF is finally Composed as ![image](https://user-images.githubusercontent.com/63364350/116404621-704ce300-a84c-11eb-9493-1c6202a579e1.png)
+Hence TF-IDF is finally Composed as:
+![image](https://user-images.githubusercontent.com/63364350/116404621-704ce300-a84c-11eb-9493-1c6202a579e1.png)
 
+Word2Vec is a two-layer neural net that processes text by “vectorizing” words. Its input is a text corpus and its output is a set of vectors: feature vectors that represent words in that corpus.A word embedding is a learned representation for text where words that have the same meaning have a similar representation. It is this approach to representing words and documents that may be considered one of the key breakthroughs of deep learning on challenging natural language processing problems.
 
-It was found that the word2vec techniques better accuracy rate of 84%, when compared with the TF-IDF technique which seems to have approximately 80 to 82%. 
+It was found that the word2vec techniques provides a better accuracy rate of 84%, when compared with the TF-IDF technique which seems to have approximately 80 to 82%. 
