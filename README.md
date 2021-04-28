@@ -18,3 +18,8 @@ Hence TF-IDF is finally Composed as:
 Word2Vec is a two-layer neural net that processes text by “vectorizing” words. Its input is a text corpus and its output is a set of vectors: feature vectors that represent words in that corpus.A word embedding is a learned representation for text where words that have the same meaning have a similar representation. It is this approach to representing words and documents that may be considered one of the key breakthroughs of deep learning on challenging natural language processing problems.
 
 It was found that the word2vec techniques provides a better accuracy rate of 84%, when compared with the TF-IDF technique which seems to have approximately 80 to 82%. 
+
+   ![image](https://user-images.githubusercontent.com/63364350/116407813-c707ec00-a84f-11eb-9185-513edc92f69f.png)
+
+
+
