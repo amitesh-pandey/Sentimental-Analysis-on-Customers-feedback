@@ -13,7 +13,7 @@ The term Inverse Document Frequency is termed as the logarithm of the number of 
 
 Hence TF-IDF is finally Composed as:
 
-   ![image](https://user-images.githubusercontent.com/63364350/116404621-704ce300-a84c-11eb-9493-1c6202a579e1.png)
+  ![image](https://user-images.githubusercontent.com/63364350/116410338-4d253200-a852-11eb-8bb4-ffe429278ba7.png)
 
 Word2Vec is a two-layer neural net that processes text by “vectorizing” words. Its input is a text corpus and its output is a set of vectors: feature vectors that represent words in that corpus.A word embedding is a learned representation for text where words that have the same meaning have a similar representation. It is this approach to representing words and documents that may be considered one of the key breakthroughs of deep learning on challenging natural language processing problems.
 
