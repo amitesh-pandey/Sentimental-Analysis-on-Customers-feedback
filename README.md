@@ -5,7 +5,7 @@ This repository talks about applying the Sentimental-Analysis based on the Custo
 TF-IDF stands for “Term Frequency – Inverse Document Frequency.” It reflects how important a word is to a document in a collection or corpus. This technique is often used in information retrieval and text mining as a weighing factor.
 The Term Frequency is termed as The number of times a word appears in a document divided by the total number of words in that document.
 
-   ![image](https://user-images.githubusercontent.com/63364350/116404525-57443200-a84c-11eb-96b6-a46f16ca864c.png)
+   ![image](https://user-images.githubusercontent.com/63364350/116409460-7db89c00-a851-11eb-95a7-5995c15a5185.png)
 
 The term Inverse Document Frequency is termed as the logarithm of the number of the documents in the corpus divided by the number of documents where the specific term appears.
 
