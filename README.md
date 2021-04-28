@@ -9,7 +9,7 @@ The Term Frequency is termed as The number of times a word appears in a document
 
 The term Inverse Document Frequency is termed as the logarithm of the number of the documents in the corpus divided by the number of documents where the specific term appears.
 
-   ![image](https://user-images.githubusercontent.com/63364350/116404594-6aef9880-a84c-11eb-82ee-70cbbb98fcf4.png)
+   ![image](https://user-images.githubusercontent.com/63364350/116410004-fe779800-a851-11eb-99ee-e5f00b7451ba.png)
 
 Hence TF-IDF is finally Composed as:
 
